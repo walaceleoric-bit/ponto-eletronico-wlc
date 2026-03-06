@@ -37,13 +37,13 @@ O sistema permite gerenciar funcionários, registrar ponto, acompanhar relatóri
 ![Funcionários](Funcionários.png)
 
 ### Dashboard
-![Dashboard](Dashboard Funcionário.png)
+![Dashboard](Dashboard%20Funcionário.png)
 
 ### Relatórios
 ![Relatórios](Relatório.png)
 
 ### Logs
-![Logs](Log de Alterações.png)
+![Logs](Log%20de%20Alterações.png)
 
 ## Modelo de uso
 
@@ -64,6 +64,7 @@ Interessados em demonstração, implantação ou locação podem entrar em conta
 - WhatsApp: 27 98843-3016
 
 - E-mail: walaceleoric@gmail.com
+
 
 
 
