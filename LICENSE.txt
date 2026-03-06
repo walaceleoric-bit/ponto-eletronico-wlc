@@ -1,0 +1,7 @@
+Copyright (c) 2026 Walace Vieira
+
+Todos os direitos reservados.
+
+Este repositório é apenas para fins de apresentação e portfólio.
+Nenhuma parte deste sistema pode ser copiada, distribuída, modificada,
+revendida ou utilizada comercialmente sem autorização expressa do autor.
