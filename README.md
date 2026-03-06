@@ -28,22 +28,22 @@ O sistema permite gerenciar funcionários, registrar ponto, acompanhar relatóri
 - Chart.js
 - Azure App Service
 
-## Demonstração visual
+## Demonstração visual
 
 ### Painel administrativo
-![Painel Administrativo](Painel%20Principal.png)
+![Painel Administrativo](Painel Principal.png)
 
-### Cadastro de funcionários
-![Funcionários](Funcionários.png)
+### Cadastro de funcionários
+![Funcionários](Funcionários.png)
 
 ### Dashboard
-![Dashboard](Dashboard%20Funcionário.png)
+![Dashboard](Dashboard%20Funcionário.png)
 
-### Relatórios
-![Relatórios](Relatório.png)
+### Relatórios
+![Relatórios](Relatório.png)
 
 ### Logs
-![Logs](Log%20de%20Alterações.png)
+![Logs](Log%20de%20Alterações.png)
 
 ## Modelo de uso
 Este sistema está disponível para locação/implantação para empresas.
@@ -72,6 +72,7 @@ Interessados em demonstração, implantação ou locação podem entrar em conta
 - WhatsApp: 27 98843-3016
 
 - E-mail: walaceleoric@gmail.com
+
 
 
 
