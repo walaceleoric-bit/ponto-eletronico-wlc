@@ -31,19 +31,19 @@ O sistema permite gerenciar funcionários, registrar ponto, acompanhar relatóri
 ## Demonstração visual
 
 ### Painel administrativo
-![Painel Administrativo](imagens/painel-admin.png)
+![Painel Administrativo](Painel Principal.png)
 
 ### Cadastro de funcionários
-![Funcionários](imagens/funcionarios.png)
+![Funcionários](Funcionários.png)
 
 ### Dashboard
-![Dashboard](imagens/dashboard.png)
+![Dashboard](Dashboard Funcionário.png)
 
 ### Relatórios
-![Relatórios](imagens/relatorios.png)
+![Relatórios](Relatório.png)
 
 ### Logs
-![Logs](imagens/logs.png)
+![Logs](Log de Alterações.png)
 
 ## Modelo de uso
 
@@ -64,3 +64,4 @@ Interessados em demonstração, implantação ou locação podem entrar em conta
 - WhatsApp: 27 98843-3016
 
 - E-mail: walaceleoric@gmail.com
+
