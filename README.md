@@ -62,4 +62,5 @@ Interessados em demonstração, implantação ou locação podem entrar em conta
 - Nome: Walace Vieira
 - LinkedIn: www.linkedin.com/in/walace-vieira-80472727b
 - WhatsApp: 27 98843-3016
+
 - E-mail: walaceleoric@gmail.com
