@@ -31,7 +31,7 @@ O sistema permite gerenciar funcionários, registrar ponto, acompanhar relatóri
 ## Demonstração visual
 
 ### Painel administrativo
-![Painel Administrativo](Painel Principal.png)
+![Painel Administrativo](Painel%20Principal.png)
 
 ### Cadastro de funcionários
 ![Funcionários](Funcionários.png)
@@ -72,6 +72,7 @@ Interessados em demonstração, implantação ou locação podem entrar em conta
 - WhatsApp: 27 98843-3016
 
 - E-mail: walaceleoric@gmail.com
+
 
 
 
